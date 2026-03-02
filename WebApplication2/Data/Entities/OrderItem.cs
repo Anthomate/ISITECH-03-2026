@@ -1,5 +1,4 @@
-namespace WebApplication2;
-
+namespace WebApplication2.Data.Entities;
 public class OrderItem : EntityBase
 {
     public int Quantity { get; set; }

@@ -1,7 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace WebApplication2;
-
+namespace WebApplication2.Data.Entities;
 public class Customer : EntityBase
 {
     [Required]
